@@ -2,29 +2,18 @@ class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
         
-        int sum , k = 0;
-        vector<int> result;
+        int n=nums.size();
+        unordered_map<int,int> umap;
         
-        for(int i =0 ; i < nums.size(); i++){
-            
-            sum = target - nums[i];
-            
-            for(int j = 0; j < nums.size(); j++){
-                
-                if( sum == nums[j] && i!=j ){
-                    
-                    k++;
-                    
-                    result.push_back(i);
-                    result.push_back(j);
-                    
-                    if(k==1){
-                        return result;
-                    }          
-                }
+        for(int i=0;i<n;i++)
+        {
+            if(umap.find(target-nums[i])!=umap.end())
+            {
+                return vector<int>{umap[target-nums[i]],i};
             }
-            
+            umap[nums[i]]=i;
         }
-        return result;
+        
+        return {};
     }
 };
