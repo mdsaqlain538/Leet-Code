@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/mdsaqlain538/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mdsaqlain538/Leet-Code/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/mdsaqlain538/Leet-Code/tree/master/0118-pascals-triangle) |
+| [0287-find-the-duplicate-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/mdsaqlain538/Leet-Code/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0031-next-permutation](https://github.com/mdsaqlain538/Leet-Code/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/mdsaqlain538/Leet-Code/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -53,4 +55,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/mdsaqlain538/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
