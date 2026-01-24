@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mdsaqlain538/Leet-Code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3798-largest-even-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/3798-largest-even-number) |
 | [3803-count-residue-prefixes](https://github.com/mdsaqlain538/Leet-Code/tree/master/3803-count-residue-prefixes) |
 ## Counting
 |  |
