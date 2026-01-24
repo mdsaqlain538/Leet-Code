@@ -3,13 +3,13 @@ public:
     string largestEven(string s) {
         
         long long  n = s.length();
-        long long count1 = 0;
+        long long count = 0;
 
         for (char c : s) {
-            if (c == '1') count1++;
+            if (c == '1') count++;
         }
 
-        if (count1 == n) {
+        if (count == n) {
             return "";
         }
 
