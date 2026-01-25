@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mdsaqlain538/Leet-Code/tree/master/0048-rotate-image) |
+| [3783-mirror-distance-of-an-integer](https://github.com/mdsaqlain538/Leet-Code/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
 |  |
 | ------- |
