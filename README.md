@@ -64,4 +64,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0287-find-the-duplicate-number) |
+| [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/mdsaqlain538/Leet-Code/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 <!---LeetCode Topics End-->LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
