@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/mdsaqlain538/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/mdsaqlain538/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0287-find-the-duplicate-number) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/mdsaqlain538/Leet-Code/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mdsaqlain538/Leet-Code/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3697-compute-decimal-representation](https://github.com/mdsaqlain538/Leet-Code/tree/master/3697-compute-decimal-representation) |
 | [3701-compute-alternating-sum](https://github.com/mdsaqlain538/Leet-Code/tree/master/3701-compute-alternating-sum) |
