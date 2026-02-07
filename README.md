@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/mdsaqlain538/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/mdsaqlain538/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/mdsaqlain538/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/mdsaqlain538/Leet-Code/tree/master/0389-find-the-difference) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mdsaqlain538/Leet-Code/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/mdsaqlain538/Leet-Code/tree/master/3731-find-missing-elements) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mdsaqlain538/Leet-Code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mdsaqlain538/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/mdsaqlain538/Leet-Code/tree/master/0389-find-the-difference) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mdsaqlain538/Leet-Code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3798-largest-even-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/3798-largest-even-number) |
 | [3803-count-residue-prefixes](https://github.com/mdsaqlain538/Leet-Code/tree/master/3803-count-residue-prefixes) |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/mdsaqlain538/Leet-Code/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/mdsaqlain538/Leet-Code/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/mdsaqlain538/Leet-Code/tree/master/0389-find-the-difference) |
 | [3731-find-missing-elements](https://github.com/mdsaqlain538/Leet-Code/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/mdsaqlain538/Leet-Code/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/mdsaqlain538/Leet-Code/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -89,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/mdsaqlain538/Leet-Code/tree/master/0389-find-the-difference) |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/mdsaqlain538/Leet-Code/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mdsaqlain538/Leet-Code/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Greedy
