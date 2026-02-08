@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/mdsaqlain538/Leet-Code/tree/master/0389-find-the-difference) |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/mdsaqlain538/Leet-Code/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mdsaqlain538/Leet-Code/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3827-count-monobit-integers](https://github.com/mdsaqlain538/Leet-Code/tree/master/3827-count-monobit-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3745-maximize-expression-of-three-elements](https://github.com/mdsaqlain538/Leet-Code/tree/master/3745-maximize-expression-of-three-elements) |
+| [3827-count-monobit-integers](https://github.com/mdsaqlain538/Leet-Code/tree/master/3827-count-monobit-integers) |
 ## Simulation
 |  |
 | ------- |
