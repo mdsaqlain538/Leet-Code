@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/mdsaqlain538/Leet-Code/tree/master/0396-rotate-function) |
 | [1920-build-array-from-permutation](https://github.com/mdsaqlain538/Leet-Code/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/mdsaqlain538/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mdsaqlain538/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mdsaqlain538/Leet-Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mdsaqlain538/Leet-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/mdsaqlain538/Leet-Code/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/mdsaqlain538/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mdsaqlain538/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mdsaqlain538/Leet-Code/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/mdsaqlain538/Leet-Code/tree/master/3701-compute-alternating-sum) |
