@@ -23,10 +23,6 @@ public:
 
         }
 
-        for(char c:pal){
-            cout<<c;
-        }
-
         int left=0, right=pal.size()-1;
 
         while(left<=right && pal.at(left)==pal.at(right)){
