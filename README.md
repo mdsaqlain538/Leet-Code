@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/mdsaqlain538/Leet-Code/tree/master/0396-rotate-function) |
 | [1920-build-array-from-permutation](https://github.com/mdsaqlain538/Leet-Code/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mdsaqlain538/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mdsaqlain538/Leet-Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mdsaqlain538/Leet-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/mdsaqlain538/Leet-Code/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/mdsaqlain538/Leet-Code/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/mdsaqlain538/Leet-Code/tree/master/0396-rotate-function) |
 | [0507-perfect-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/mdsaqlain538/Leet-Code/tree/master/0728-self-dividing-numbers) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mdsaqlain538/Leet-Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mdsaqlain538/Leet-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mdsaqlain538/Leet-Code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mdsaqlain538/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
