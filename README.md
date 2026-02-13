@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/mdsaqlain538/Leet-Code/tree/master/0396-rotate-function) |
 | [1920-build-array-from-permutation](https://github.com/mdsaqlain538/Leet-Code/tree/master/1920-build-array-from-permutation) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mdsaqlain538/Leet-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/mdsaqlain538/Leet-Code/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/mdsaqlain538/Leet-Code/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mdsaqlain538/Leet-Code/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3697-compute-decimal-representation](https://github.com/mdsaqlain538/Leet-Code/tree/master/3697-compute-decimal-representation) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/mdsaqlain538/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/mdsaqlain538/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mdsaqlain538/Leet-Code/tree/master/0389-find-the-difference) |
+| [3668-restore-finishing-order](https://github.com/mdsaqlain538/Leet-Code/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mdsaqlain538/Leet-Code/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/mdsaqlain538/Leet-Code/tree/master/3731-find-missing-elements) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mdsaqlain538/Leet-Code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
