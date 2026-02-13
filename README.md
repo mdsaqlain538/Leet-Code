@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/mdsaqlain538/Leet-Code/tree/master/0396-rotate-function) |
 | [1920-build-array-from-permutation](https://github.com/mdsaqlain538/Leet-Code/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/mdsaqlain538/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mdsaqlain538/Leet-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/mdsaqlain538/Leet-Code/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/mdsaqlain538/Leet-Code/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/mdsaqlain538/Leet-Code/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/mdsaqlain538/Leet-Code/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/mdsaqlain538/Leet-Code/tree/master/0434-number-of-segments-in-a-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/mdsaqlain538/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mdsaqlain538/Leet-Code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3798-largest-even-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/3798-largest-even-number) |
 | [3803-count-residue-prefixes](https://github.com/mdsaqlain538/Leet-Code/tree/master/3803-count-residue-prefixes) |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/mdsaqlain538/Leet-Code/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/mdsaqlain538/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mdsaqlain538/Leet-Code/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/mdsaqlain538/Leet-Code/tree/master/3701-compute-alternating-sum) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/mdsaqlain538/Leet-Code/tree/master/3726-remove-zeros-in-decimal-representation) |
