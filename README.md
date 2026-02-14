@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/mdsaqlain538/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/mdsaqlain538/Leet-Code/tree/master/0396-rotate-function) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mdsaqlain538/Leet-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1920-build-array-from-permutation](https://github.com/mdsaqlain538/Leet-Code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mdsaqlain538/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mdsaqlain538/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/mdsaqlain538/Leet-Code/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/mdsaqlain538/Leet-Code/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/mdsaqlain538/Leet-Code/tree/master/0434-number-of-segments-in-a-string) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mdsaqlain538/Leet-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mdsaqlain538/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/mdsaqlain538/Leet-Code/tree/master/2942-find-words-containing-character) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mdsaqlain538/Leet-Code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -160,4 +162,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdsaqlain538/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mdsaqlain538/Leet-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 <!---LeetCode Topics End-->LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
