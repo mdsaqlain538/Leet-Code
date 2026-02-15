@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mdsaqlain538/Leet-Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3285-find-indices-of-stable-mountains](https://github.com/mdsaqlain538/Leet-Code/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mdsaqlain538/Leet-Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mdsaqlain538/Leet-Code/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mdsaqlain538/Leet-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/mdsaqlain538/Leet-Code/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/mdsaqlain538/Leet-Code/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/mdsaqlain538/Leet-Code/tree/master/0389-find-the-difference) |
 | [2418-sort-the-people](https://github.com/mdsaqlain538/Leet-Code/tree/master/2418-sort-the-people) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mdsaqlain538/Leet-Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mdsaqlain538/Leet-Code/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3668-restore-finishing-order](https://github.com/mdsaqlain538/Leet-Code/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mdsaqlain538/Leet-Code/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/mdsaqlain538/Leet-Code/tree/master/3731-find-missing-elements) |
