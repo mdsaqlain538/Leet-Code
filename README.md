@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/mdsaqlain538/Leet-Code/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/mdsaqlain538/Leet-Code/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/mdsaqlain538/Leet-Code/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/mdsaqlain538/Leet-Code/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mdsaqlain538/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mdsaqlain538/Leet-Code/tree/master/0074-search-a-2d-matrix) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/mdsaqlain538/Leet-Code/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/mdsaqlain538/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
