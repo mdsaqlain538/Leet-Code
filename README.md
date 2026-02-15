@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mdsaqlain538/Leet-Code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3798-largest-even-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/3798-largest-even-number) |
 | [3803-count-residue-prefixes](https://github.com/mdsaqlain538/Leet-Code/tree/master/3803-count-residue-prefixes) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/mdsaqlain538/Leet-Code/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/mdsaqlain538/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/mdsaqlain538/Leet-Code/tree/master/0392-is-subsequence) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/mdsaqlain538/Leet-Code/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mdsaqlain538/Leet-Code/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/mdsaqlain538/Leet-Code/tree/master/3701-compute-alternating-sum) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/mdsaqlain538/Leet-Code/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/mdsaqlain538/Leet-Code/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Number Theory
 |  |
 | ------- |
