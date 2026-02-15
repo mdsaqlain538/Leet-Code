@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mdsaqlain538/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/mdsaqlain538/Leet-Code/tree/master/2942-find-words-containing-character) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mdsaqlain538/Leet-Code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3794-reverse-string-prefix](https://github.com/mdsaqlain538/Leet-Code/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/3798-largest-even-number) |
 | [3803-count-residue-prefixes](https://github.com/mdsaqlain538/Leet-Code/tree/master/3803-count-residue-prefixes) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/mdsaqlain538/Leet-Code/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/mdsaqlain538/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/mdsaqlain538/Leet-Code/tree/master/0392-is-subsequence) |
+| [3794-reverse-string-prefix](https://github.com/mdsaqlain538/Leet-Code/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/mdsaqlain538/Leet-Code/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sorting
 |  |
