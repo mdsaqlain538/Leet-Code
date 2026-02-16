@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1470-shuffle-the-array](https://github.com/mdsaqlain538/Leet-Code/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mdsaqlain538/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/mdsaqlain538/Leet-Code/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/mdsaqlain538/Leet-Code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/mdsaqlain538/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mdsaqlain538/Leet-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/mdsaqlain538/Leet-Code/tree/master/1816-truncate-sentence) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/mdsaqlain538/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/mdsaqlain538/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mdsaqlain538/Leet-Code/tree/master/0389-find-the-difference) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/mdsaqlain538/Leet-Code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2418-sort-the-people](https://github.com/mdsaqlain538/Leet-Code/tree/master/2418-sort-the-people) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mdsaqlain538/Leet-Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mdsaqlain538/Leet-Code/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -70,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/mdsaqlain538/Leet-Code/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/mdsaqlain538/Leet-Code/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/mdsaqlain538/Leet-Code/tree/master/0434-number-of-segments-in-a-string) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/mdsaqlain538/Leet-Code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mdsaqlain538/Leet-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/mdsaqlain538/Leet-Code/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mdsaqlain538/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -85,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/mdsaqlain538/Leet-Code/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/mdsaqlain538/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/mdsaqlain538/Leet-Code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mdsaqlain538/Leet-Code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
 |  |
@@ -149,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/mdsaqlain538/Leet-Code/tree/master/0389-find-the-difference) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/mdsaqlain538/Leet-Code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/mdsaqlain538/Leet-Code/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/mdsaqlain538/Leet-Code/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3827-count-monobit-integers](https://github.com/mdsaqlain538/Leet-Code/tree/master/3827-count-monobit-integers) |
