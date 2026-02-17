@@ -29,6 +29,8 @@ public:
     }
 };
 
+//PERSONAL WORK
+
 // n=4   ->    m=2
 
 // (i=0,j=4)
@@ -72,3 +74,6 @@ public:
 // 30 31 32      31 32 33     32 33 34
 // 40 41 42      41 42 43     42 43 44
 
+
+
+//TODO: think of better approach instead of too many loops
