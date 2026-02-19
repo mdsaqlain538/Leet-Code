@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2798-number-of-employees-who-met-the-target](https://github.com/mdsaqlain538/Leet-Code/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/mdsaqlain538/Leet-Code/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/mdsaqlain538/Leet-Code/tree/master/2974-minimum-number-game) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/mdsaqlain538/Leet-Code/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mdsaqlain538/Leet-Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3285-find-indices-of-stable-mountains](https://github.com/mdsaqlain538/Leet-Code/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mdsaqlain538/Leet-Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
