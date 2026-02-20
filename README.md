@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/mdsaqlain538/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/mdsaqlain538/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mdsaqlain538/Leet-Code/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/mdsaqlain538/Leet-Code/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mdsaqlain538/Leet-Code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2418-sort-the-people](https://github.com/mdsaqlain538/Leet-Code/tree/master/2418-sort-the-people) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/mdsaqlain538/Leet-Code/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/mdsaqlain538/Leet-Code/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/mdsaqlain538/Leet-Code/tree/master/0434-number-of-segments-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/mdsaqlain538/Leet-Code/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/mdsaqlain538/Leet-Code/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mdsaqlain538/Leet-Code/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mdsaqlain538/Leet-Code/tree/master/1684-count-the-number-of-consistent-strings) |
