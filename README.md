@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/mdsaqlain538/Leet-Code/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/mdsaqlain538/Leet-Code/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/mdsaqlain538/Leet-Code/tree/master/0434-number-of-segments-in-a-string) |
+| [1108-defanging-an-ip-address](https://github.com/mdsaqlain538/Leet-Code/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mdsaqlain538/Leet-Code/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mdsaqlain538/Leet-Code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mdsaqlain538/Leet-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
