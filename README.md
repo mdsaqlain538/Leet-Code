@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1684-count-the-number-of-consistent-strings](https://github.com/mdsaqlain538/Leet-Code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mdsaqlain538/Leet-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/mdsaqlain538/Leet-Code/tree/master/1816-truncate-sentence) |
+| [2000-reverse-prefix-of-word](https://github.com/mdsaqlain538/Leet-Code/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mdsaqlain538/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2418-sort-the-people](https://github.com/mdsaqlain538/Leet-Code/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/mdsaqlain538/Leet-Code/tree/master/2942-find-words-containing-character) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/mdsaqlain538/Leet-Code/tree/master/0392-is-subsequence) |
 | [0832-flipping-an-image](https://github.com/mdsaqlain538/Leet-Code/tree/master/0832-flipping-an-image) |
+| [2000-reverse-prefix-of-word](https://github.com/mdsaqlain538/Leet-Code/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/mdsaqlain538/Leet-Code/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/mdsaqlain538/Leet-Code/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sorting
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mdsaqlain538/Leet-Code/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2000-reverse-prefix-of-word](https://github.com/mdsaqlain538/Leet-Code/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
