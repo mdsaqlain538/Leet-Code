@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2942-find-words-containing-character](https://github.com/mdsaqlain538/Leet-Code/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/mdsaqlain538/Leet-Code/tree/master/2974-minimum-number-game) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/mdsaqlain538/Leet-Code/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3151-special-array-i](https://github.com/mdsaqlain538/Leet-Code/tree/master/3151-special-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mdsaqlain538/Leet-Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mdsaqlain538/Leet-Code/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3285-find-indices-of-stable-mountains](https://github.com/mdsaqlain538/Leet-Code/tree/master/3285-find-indices-of-stable-mountains) |
