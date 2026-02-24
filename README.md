@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/mdsaqlain538/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mdsaqlain538/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mdsaqlain538/Leet-Code/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2239-find-closest-number-to-zero](https://github.com/mdsaqlain538/Leet-Code/tree/master/2239-find-closest-number-to-zero) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/mdsaqlain538/Leet-Code/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2418-sort-the-people](https://github.com/mdsaqlain538/Leet-Code/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mdsaqlain538/Leet-Code/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
