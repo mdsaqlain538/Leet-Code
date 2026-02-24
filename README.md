@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/mdsaqlain538/Leet-Code/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/mdsaqlain538/Leet-Code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mdsaqlain538/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mdsaqlain538/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mdsaqlain538/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mdsaqlain538/Leet-Code/tree/master/0238-product-of-array-except-self) |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/mdsaqlain538/Leet-Code/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/mdsaqlain538/Leet-Code/tree/master/0832-flipping-an-image) |
