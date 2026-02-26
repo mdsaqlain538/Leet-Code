@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/mdsaqlain538/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mdsaqlain538/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mdsaqlain538/Leet-Code/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/mdsaqlain538/Leet-Code/tree/master/0396-rotate-function) |
 | [0832-flipping-an-image](https://github.com/mdsaqlain538/Leet-Code/tree/master/0832-flipping-an-image) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/mdsaqlain538/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/mdsaqlain538/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mdsaqlain538/Leet-Code/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/mdsaqlain538/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mdsaqlain538/Leet-Code/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/mdsaqlain538/Leet-Code/tree/master/0771-jewels-and-stones) |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/mdsaqlain538/Leet-Code/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/mdsaqlain538/Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mdsaqlain538/Leet-Code/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mdsaqlain538/Leet-Code/tree/master/0389-find-the-difference) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/mdsaqlain538/Leet-Code/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1051-height-checker](https://github.com/mdsaqlain538/Leet-Code/tree/master/1051-height-checker) |
@@ -189,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mdsaqlain538/Leet-Code/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/mdsaqlain538/Leet-Code/tree/master/0396-rotate-function) |
 | [0507-perfect-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/mdsaqlain538/Leet-Code/tree/master/0728-self-dividing-numbers) |
@@ -209,11 +213,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0035-search-insert-position](https://github.com/mdsaqlain538/Leet-Code/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/mdsaqlain538/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/mdsaqlain538/Leet-Code/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/mdsaqlain538/Leet-Code/tree/master/0832-flipping-an-image) |
