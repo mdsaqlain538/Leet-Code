@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2678-number-of-senior-citizens](https://github.com/mdsaqlain538/Leet-Code/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mdsaqlain538/Leet-Code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mdsaqlain538/Leet-Code/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mdsaqlain538/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/mdsaqlain538/Leet-Code/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/mdsaqlain538/Leet-Code/tree/master/2974-minimum-number-game) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/mdsaqlain538/Leet-Code/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/mdsaqlain538/Leet-Code/tree/master/0392-is-subsequence) |
 | [0832-flipping-an-image](https://github.com/mdsaqlain538/Leet-Code/tree/master/0832-flipping-an-image) |
 | [2000-reverse-prefix-of-word](https://github.com/mdsaqlain538/Leet-Code/tree/master/2000-reverse-prefix-of-word) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mdsaqlain538/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/mdsaqlain538/Leet-Code/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/mdsaqlain538/Leet-Code/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sorting
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mdsaqlain538/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mdsaqlain538/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/mdsaqlain538/Leet-Code/tree/master/2418-sort-the-people) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mdsaqlain538/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/mdsaqlain538/Leet-Code/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/mdsaqlain538/Leet-Code/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/mdsaqlain538/Leet-Code/tree/master/3731-find-missing-elements) |
@@ -220,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/mdsaqlain538/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0287-find-the-duplicate-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mdsaqlain538/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
