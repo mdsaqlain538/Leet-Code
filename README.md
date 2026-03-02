@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1920-build-array-from-permutation](https://github.com/mdsaqlain538/Leet-Code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mdsaqlain538/Leet-Code/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mdsaqlain538/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mdsaqlain538/Leet-Code/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mdsaqlain538/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mdsaqlain538/Leet-Code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/mdsaqlain538/Leet-Code/tree/master/2239-find-closest-number-to-zero) |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1200-minimum-absolute-difference](https://github.com/mdsaqlain538/Leet-Code/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mdsaqlain538/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mdsaqlain538/Leet-Code/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mdsaqlain538/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/mdsaqlain538/Leet-Code/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mdsaqlain538/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/mdsaqlain538/Leet-Code/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mdsaqlain538/Leet-Code/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mdsaqlain538/Leet-Code/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mdsaqlain538/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3745-maximize-expression-of-three-elements](https://github.com/mdsaqlain538/Leet-Code/tree/master/3745-maximize-expression-of-three-elements) |
 ## Enumeration
@@ -292,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1051-height-checker](https://github.com/mdsaqlain538/Leet-Code/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mdsaqlain538/Leet-Code/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Stack
 |  |
 | ------- |
