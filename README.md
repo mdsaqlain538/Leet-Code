@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1672-richest-customer-wealth](https://github.com/mdsaqlain538/Leet-Code/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mdsaqlain538/Leet-Code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/mdsaqlain538/Leet-Code/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/mdsaqlain538/Leet-Code/tree/master/1748-sum-of-unique-elements) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mdsaqlain538/Leet-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/mdsaqlain538/Leet-Code/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mdsaqlain538/Leet-Code/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-unique-number-of-occurrences](https://github.com/mdsaqlain538/Leet-Code/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mdsaqlain538/Leet-Code/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/mdsaqlain538/Leet-Code/tree/master/1748-sum-of-unique-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mdsaqlain538/Leet-Code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/mdsaqlain538/Leet-Code/tree/master/2418-sort-the-people) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mdsaqlain538/Leet-Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/mdsaqlain538/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/mdsaqlain538/Leet-Code/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mdsaqlain538/Leet-Code/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/mdsaqlain538/Leet-Code/tree/master/1748-sum-of-unique-elements) |
 | [3467-transform-array-by-parity](https://github.com/mdsaqlain538/Leet-Code/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mdsaqlain538/Leet-Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mdsaqlain538/Leet-Code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
