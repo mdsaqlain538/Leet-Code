@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mdsaqlain538/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/mdsaqlain538/Leet-Code/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/mdsaqlain538/Leet-Code/tree/master/2974-minimum-number-game) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/mdsaqlain538/Leet-Code/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/mdsaqlain538/Leet-Code/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/mdsaqlain538/Leet-Code/tree/master/3151-special-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mdsaqlain538/Leet-Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1748-sum-of-unique-elements](https://github.com/mdsaqlain538/Leet-Code/tree/master/1748-sum-of-unique-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mdsaqlain538/Leet-Code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/mdsaqlain538/Leet-Code/tree/master/2418-sort-the-people) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/mdsaqlain538/Leet-Code/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mdsaqlain538/Leet-Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mdsaqlain538/Leet-Code/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mdsaqlain538/Leet-Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-minimum-increment-to-make-array-unique](https://github.com/mdsaqlain538/Leet-Code/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/mdsaqlain538/Leet-Code/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/mdsaqlain538/Leet-Code/tree/master/1748-sum-of-unique-elements) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/mdsaqlain538/Leet-Code/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3467-transform-array-by-parity](https://github.com/mdsaqlain538/Leet-Code/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mdsaqlain538/Leet-Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mdsaqlain538/Leet-Code/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
