@@ -5,7 +5,7 @@ public:
         vector<long long int> balanced_ind;
         int n = nums.size();
         
-        unsigned long long sum = 0, right_product = 1;
+        long long sum = 0, right_product = 1;
 
         for(long long int i=0;i<nums.size();i++){
 
