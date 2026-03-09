@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1470-shuffle-the-array](https://github.com/mdsaqlain538/Leet-Code/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mdsaqlain538/Leet-Code/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/mdsaqlain538/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
+| [1539-kth-missing-positive-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/mdsaqlain538/Leet-Code/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/mdsaqlain538/Leet-Code/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/mdsaqlain538/Leet-Code/tree/master/1672-richest-customer-wealth) |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/mdsaqlain538/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0287-find-the-duplicate-number) |
+| [1539-kth-missing-positive-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/1539-kth-missing-positive-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/mdsaqlain538/Leet-Code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
