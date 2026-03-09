@@ -12,7 +12,6 @@ public:
 
         int value = k, count = 0, i = 1;
 
-
         while(k>0 && count<arr.size()){
 
 
