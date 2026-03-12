@@ -1,0 +1,19 @@
+class Solution {
+public:
+    int differenceOfSums(int n, int m) {
+
+
+        int ds = 0, nds = 0;
+        
+        for(int i=1;i<=n;i++){
+
+            if(i%m==0){
+                ds = ds + i;
+            }else{
+                nds = nds + i;
+            }
+        }
+
+        return nds-ds;
+    }
+};
