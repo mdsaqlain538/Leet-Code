@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2974-minimum-number-game](https://github.com/mdsaqlain538/Leet-Code/tree/master/2974-minimum-number-game) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/mdsaqlain538/Leet-Code/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/mdsaqlain538/Leet-Code/tree/master/3467-transform-array-by-parity) |
+| [3536-maximum-product-of-two-digits](https://github.com/mdsaqlain538/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/mdsaqlain538/Leet-Code/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/mdsaqlain538/Leet-Code/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/mdsaqlain538/Leet-Code/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mdsaqlain538/Leet-Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mdsaqlain538/Leet-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/mdsaqlain538/Leet-Code/tree/master/3516-find-closest-person) |
+| [3536-maximum-product-of-two-digits](https://github.com/mdsaqlain538/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mdsaqlain538/Leet-Code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mdsaqlain538/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3697-compute-decimal-representation](https://github.com/mdsaqlain538/Leet-Code/tree/master/3697-compute-decimal-representation) |
