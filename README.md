@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/mdsaqlain538/Leet-Code/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/mdsaqlain538/Leet-Code/tree/master/0396-rotate-function) |
