@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0507-perfect-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/mdsaqlain538/Leet-Code/tree/master/0728-self-dividing-numbers) |
+| [2485-find-the-pivot-integer](https://github.com/mdsaqlain538/Leet-Code/tree/master/2485-find-the-pivot-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mdsaqlain538/Leet-Code/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/mdsaqlain538/Leet-Code/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/mdsaqlain538/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/mdsaqlain538/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mdsaqlain538/Leet-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2485-find-the-pivot-integer](https://github.com/mdsaqlain538/Leet-Code/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/mdsaqlain538/Leet-Code/tree/master/2574-left-and-right-sum-differences) |
 ## Counting Sort
 |  |
