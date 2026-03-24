@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/mdsaqlain538/Leet-Code/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/mdsaqlain538/Leet-Code/tree/master/0832-flipping-an-image) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/mdsaqlain538/Leet-Code/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1046-last-stone-weight](https://github.com/mdsaqlain538/Leet-Code/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/mdsaqlain538/Leet-Code/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/mdsaqlain538/Leet-Code/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/mdsaqlain538/Leet-Code/tree/master/1207-unique-number-of-occurrences) |
@@ -347,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/mdsaqlain538/Leet-Code/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mdsaqlain538/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/mdsaqlain538/Leet-Code/tree/master/2974-minimum-number-game) |
 ## Recursion
