@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3005-count-elements-with-maximum-frequency](https://github.com/mdsaqlain538/Leet-Code/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/mdsaqlain538/Leet-Code/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/mdsaqlain538/Leet-Code/tree/master/3151-special-array-i) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/mdsaqlain538/Leet-Code/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mdsaqlain538/Leet-Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/mdsaqlain538/Leet-Code/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mdsaqlain538/Leet-Code/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mdsaqlain538/Leet-Code/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/mdsaqlain538/Leet-Code/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mdsaqlain538/Leet-Code/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/mdsaqlain538/Leet-Code/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mdsaqlain538/Leet-Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mdsaqlain538/Leet-Code/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/mdsaqlain538/Leet-Code/tree/master/3541-find-most-frequent-vowel-and-consonant) |
