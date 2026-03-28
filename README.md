@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mdsaqlain538/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/mdsaqlain538/Leet-Code/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mdsaqlain538/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/mdsaqlain538/Leet-Code/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mdsaqlain538/Leet-Code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/mdsaqlain538/Leet-Code/tree/master/2239-find-closest-number-to-zero) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/mdsaqlain538/Leet-Code/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1816-truncate-sentence](https://github.com/mdsaqlain538/Leet-Code/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/mdsaqlain538/Leet-Code/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mdsaqlain538/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/mdsaqlain538/Leet-Code/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/mdsaqlain538/Leet-Code/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/mdsaqlain538/Leet-Code/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/mdsaqlain538/Leet-Code/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -336,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdsaqlain538/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/mdsaqlain538/Leet-Code/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Prefix Sum
 |  |
 | ------- |
