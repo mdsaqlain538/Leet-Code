@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/mdsaqlain538/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mdsaqlain538/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/mdsaqlain538/Leet-Code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/mdsaqlain538/Leet-Code/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mdsaqlain538/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/mdsaqlain538/Leet-Code/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/mdsaqlain538/Leet-Code/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/mdsaqlain538/Leet-Code/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/mdsaqlain538/Leet-Code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/mdsaqlain538/Leet-Code/tree/master/0392-is-subsequence) |
 | [0832-flipping-an-image](https://github.com/mdsaqlain538/Leet-Code/tree/master/0832-flipping-an-image) |
