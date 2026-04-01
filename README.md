@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/mdsaqlain538/Leet-Code/tree/master/2553-separate-the-digits-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mdsaqlain538/Leet-Code/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2574-left-and-right-sum-differences](https://github.com/mdsaqlain538/Leet-Code/tree/master/2574-left-and-right-sum-differences) |
+| [2670-find-the-distinct-difference-array](https://github.com/mdsaqlain538/Leet-Code/tree/master/2670-find-the-distinct-difference-array) |
 | [2678-number-of-senior-citizens](https://github.com/mdsaqlain538/Leet-Code/tree/master/2678-number-of-senior-citizens) |
 | [2706-buy-two-chocolates](https://github.com/mdsaqlain538/Leet-Code/tree/master/2706-buy-two-chocolates) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/mdsaqlain538/Leet-Code/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2418-sort-the-people](https://github.com/mdsaqlain538/Leet-Code/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mdsaqlain538/Leet-Code/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/mdsaqlain538/Leet-Code/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2670-find-the-distinct-difference-array](https://github.com/mdsaqlain538/Leet-Code/tree/master/2670-find-the-distinct-difference-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/mdsaqlain538/Leet-Code/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mdsaqlain538/Leet-Code/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/mdsaqlain538/Leet-Code/tree/master/3162-find-the-number-of-good-pairs-i) |
