@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3232-find-if-digit-game-can-be-won](https://github.com/mdsaqlain538/Leet-Code/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3285-find-indices-of-stable-mountains](https://github.com/mdsaqlain538/Leet-Code/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mdsaqlain538/Leet-Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mdsaqlain538/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mdsaqlain538/Leet-Code/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3452-sum-of-good-numbers](https://github.com/mdsaqlain538/Leet-Code/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/mdsaqlain538/Leet-Code/tree/master/3467-transform-array-by-parity) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mdsaqlain538/Leet-Code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/mdsaqlain538/Leet-Code/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mdsaqlain538/Leet-Code/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mdsaqlain538/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mdsaqlain538/Leet-Code/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/mdsaqlain538/Leet-Code/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/mdsaqlain538/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
