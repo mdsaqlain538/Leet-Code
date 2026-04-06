@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2185-counting-words-with-a-given-prefix](https://github.com/mdsaqlain538/Leet-Code/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mdsaqlain538/Leet-Code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/mdsaqlain538/Leet-Code/tree/master/2239-find-closest-number-to-zero) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/mdsaqlain538/Leet-Code/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/mdsaqlain538/Leet-Code/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2418-sort-the-people](https://github.com/mdsaqlain538/Leet-Code/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/mdsaqlain538/Leet-Code/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2000-reverse-prefix-of-word](https://github.com/mdsaqlain538/Leet-Code/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mdsaqlain538/Leet-Code/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/mdsaqlain538/Leet-Code/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/mdsaqlain538/Leet-Code/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2418-sort-the-people](https://github.com/mdsaqlain538/Leet-Code/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/mdsaqlain538/Leet-Code/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/mdsaqlain538/Leet-Code/tree/master/2744-find-maximum-number-of-string-pairs) |
