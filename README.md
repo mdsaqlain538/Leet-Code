@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/mdsaqlain538/Leet-Code/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mdsaqlain538/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/mdsaqlain538/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/mdsaqlain538/Leet-Code/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/mdsaqlain538/Leet-Code/tree/master/0832-flipping-an-image) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/mdsaqlain538/Leet-Code/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -385,4 +386,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/mdsaqlain538/Leet-Code/tree/master/0509-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/mdsaqlain538/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
