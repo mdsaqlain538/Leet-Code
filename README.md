@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3731-find-missing-elements](https://github.com/mdsaqlain538/Leet-Code/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/mdsaqlain538/Leet-Code/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/mdsaqlain538/Leet-Code/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3833-count-dominant-indices](https://github.com/mdsaqlain538/Leet-Code/tree/master/3833-count-dominant-indices) |
 ## Hash Table
 |  |
 | ------- |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2778-sum-of-squares-of-special-elements](https://github.com/mdsaqlain538/Leet-Code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/mdsaqlain538/Leet-Code/tree/master/3745-maximize-expression-of-three-elements) |
 | [3827-count-monobit-integers](https://github.com/mdsaqlain538/Leet-Code/tree/master/3827-count-monobit-integers) |
+| [3833-count-dominant-indices](https://github.com/mdsaqlain538/Leet-Code/tree/master/3833-count-dominant-indices) |
 ## Simulation
 |  |
 | ------- |
